@@ -14,7 +14,7 @@ In[ ]:
 http://localhost:8888/notebooks/Untitled12.ipynb#
  
  import pandas as pd
-import numpy as np
+ import numpy as np
  
  
   print("Hello Capstone Project Course!")
